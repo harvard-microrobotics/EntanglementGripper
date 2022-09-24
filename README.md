@@ -1,2 +1,1 @@
-# EntanglementGripper
-Entanglement grasping experimental data
+The experimental data used for the mansucript of "Active entanglement enables stochastic, topological grasping" by Kaitlyn Becker, Clark Teeple, Nicholas Charles, Yeonsu Jung, Daniel Baum, James C. Weaver, L. Mahadevan, Robert Wood are provided in this repository.
